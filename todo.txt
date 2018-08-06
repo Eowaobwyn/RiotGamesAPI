@@ -1,0 +1,8 @@
+Action ou WIP
+
+#Lancer le serveur en local:
+
+cd RiotGamesAPI
+npm install
+SET DEBUG=riotgamesapi:* & npm start
+
