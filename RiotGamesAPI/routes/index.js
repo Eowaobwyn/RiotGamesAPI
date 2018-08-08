@@ -12,8 +12,8 @@ router.get('/', function(req, res) {
 });
 
 // define the test route
-router.get('/test', function(req, res) {
-  res.render('test', { main: 'Ezreal'});
+router.get('/champlist', function(req, res) {
+  res.render('champlist');
 });
 
 // define the History route
